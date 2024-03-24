@@ -1,0 +1,17 @@
+{
+  "name": "exercicios-trybe",
+  "version": "1.0.0",
+  "description": "repositorio criado para praticar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.10.7",
+    "vite": "^5.2.4"
+  }
+}
