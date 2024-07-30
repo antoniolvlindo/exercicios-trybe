@@ -1,0 +1,24 @@
+{
+  "name": "exercicios-trybe",
+  "version": "1.0.0",
+  "description": "Exercícios - agora, a prática 🚀 Se liga nesse foguete!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bmi": "node bmi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniolvlindo/exercicios-trybe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniolvlindo/exercicios-trybe/issues"
+  },
+  "homepage": "https://github.com/antoniolvlindo/exercicios-trybe#readme",
+  "dependencies": {
+    "readline-sync": "1.4.10"
+  }
+}
